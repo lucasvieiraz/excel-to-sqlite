@@ -45,6 +45,8 @@ Ao final, o sistema exibe:
 ```bash
 Banco de dados SQLite criado com sucesso!
 
+```
+
 ## 🧰 Tecnologias utilizadas
 
 🐍 Python
@@ -92,6 +94,7 @@ Validar automaticamente cada alteração enviada para o repositório
 💼 Isso simula um ambiente profissional de desenvolvimento, utilizando boas práticas de qualidade e automação.
 
 📁 Estrutura do projeto
+```bash
 excel-to-sqlite/
 ├── main.py
 ├── Controle 2026.xlsx
@@ -102,6 +105,7 @@ excel-to-sqlite/
 └── .github/
     └── workflows/
         └── ci.yml
+```
 
 ## 🏁 Conclusão
 
